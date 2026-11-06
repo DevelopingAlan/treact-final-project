@@ -1491,6 +1491,7 @@ MOBILE RESPONSIVENESS ↓
 
     .plan {
         margin-right: 0px;
+        width: 100%;
     }
 
     .plan__left {
